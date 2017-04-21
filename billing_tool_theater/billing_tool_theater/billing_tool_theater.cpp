@@ -12,7 +12,7 @@ to have valid values and made sure discount and tax included in the final result
 
 double calculate(void);
 
-struct Billing
+struct Billing 
 
 {	/*output variables */
 	double price_adults,
