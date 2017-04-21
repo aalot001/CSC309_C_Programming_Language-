@@ -1,11 +1,11 @@
 // billing_tool_theater.cpp : Defines the entry point for the console application.
-/*Ahmed Alotaibi
+/* Ahmed Alotaibi 
+
 4 / 10 / 2017
 
 C programming language
-I have implemented a billing tool for a movie theater.
-Therefore, I used struct structure and have done the necessary implementations
-to have valid values and made sure discount and tax included in the final result.*/
+A billing tool for a movie theater. I used struct structure and have done the necessary implementations
+to have valid values and made sure discount and tax included in the final result. */
 
 #include "stdafx.h"
 #include <stdlib.h>
